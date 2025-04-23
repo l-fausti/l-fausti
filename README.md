@@ -14,11 +14,12 @@
 <hr>
 <h3 align=center>Featured Projects</h3>
 <div align="center">
+ 
 [![Badge do Projeto 1](https://img.shields.io/badge/SalesWebMVC-WEB-blue)](https://github.com/GabrielCostaMarques/SalesWebMvc.git)
 [![Badge do Projeto 2](https://img.shields.io/badge/EstoqueR11-APP-purple)](https://github.com/GabrielCostaMarques/EstoqueR11)
 </div>
- 
-<br><br>
+
+<br>
  
 <div align="center">
 <a href="https://github.com/l-fausti">
