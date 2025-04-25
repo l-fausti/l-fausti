@@ -15,8 +15,8 @@
 <h3 align=center>Featured Projects</h3>
 <div align="center">
  
-[![Badge do Projeto 1](https://img.shields.io/badge/SalesWebMVC-WEB-blue)](https://github.com/GabrielCostaMarques/SalesWebMvc.git)
-[![Badge do Projeto 2](https://img.shields.io/badge/EstoqueR11-APP-purple)](https://github.com/GabrielCostaMarques/EstoqueR11)
+[![Badge do Projeto 1](https://img.shields.io/badge/PetSty-Web-blue)](https://github.com/l-fausti/PetSty-Web)
+[![Badge do Projeto 2](https://img.shields.io/badge/PetSty-APP-purple)](https://github.com/l-fausti/PetSty)
 </div>
 
 <br>
