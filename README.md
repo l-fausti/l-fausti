@@ -7,10 +7,7 @@
 <h3 align="center">
   💻 Desenvolvedor Backend
 </h3>
-<h3 align=center >
-  📚 Estudando Java, com base sólida em C#
-</h3>
- 
+
 <hr>
 <h3 align=center>Featured Projects</h3>
 <div align="center">
